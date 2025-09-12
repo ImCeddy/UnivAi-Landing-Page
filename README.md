@@ -1,11 +1,27 @@
-# UnivAi-Landing-Page
+# UnivAi Landing Page
 
-  # AI Chatbot Landing Page
+A modern AI Chatbot landing page built with React and TypeScript.
 
+## Getting Started
 
-  ## Running the code
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+3. Build for production:
+   ```bash
+   npm run build
+   ```
 
-  Run `npm i` to install the dependencies.
+## Project Structure
+- `src/` - Main source code
+- `public/` - Static assets
+- `index.html` - Main HTML file
 
-  Run `npm run dev` to start the development server.
-  
+## License
+MIT
+
