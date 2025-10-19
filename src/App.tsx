@@ -53,7 +53,7 @@ export default function App() {
   };
 
   const handleRedirectToAI = () => {
-    window.location.href = 'https://huggingface.co/spaces/universityaichatbot/univai';
+    window.location.href = 'https://huggingface.co/spaces/UniversityAIChatbot/UnivAI_Inquiries_Chatbot';
   };
 
   // Thought bubble effect - 5s duration, every 7s
